@@ -1,4 +1,4 @@
-# Github.ExpandinizR
+# Github.ExpandinizRLS
 
 Chrome extension that improves the GitHub experience.
 
